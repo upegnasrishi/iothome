@@ -35,4 +35,4 @@ You may click https://www.youtube.com/watch?v=npy4Qc2vylo
 Contributions to this project are welcome! If you have any improvements, bug fixes, or additional features to suggest, please feel free to create a pull request.
 
 License
-[Specify the license under which your project is shared. For example, MIT License.]
+[MIT License.]
